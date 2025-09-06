@@ -1,10 +1,10 @@
 ---
 layout: cv
-permalink: /assets/pdf/Haolei_CV.pdf
+permalink: /assets/pdf/BaiRongfu_CV.pdf
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: Haolei_CV.pdf # you can also use external links here
+cv_pdf: BaiRongfu_CV.pdf # you can also use external links here
 description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 toc:
   sidebar: left
