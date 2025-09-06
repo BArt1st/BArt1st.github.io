@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2025/02/28
+date: 2024/10
 inline: true
 related_posts: false
 ---
 
-I graduated from [Nanyang Technological University](https://www.ntu.edu.sg/)! 🎉
+I got Outstanding Class Representative(school-wide)!
+

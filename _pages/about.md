@@ -2,16 +2,13 @@
 layout: about
 title: About
 permalink: /
-# subtitle: <a href='https://en.westlake.edu.cn/'>Westlake University</a>
-
+subtitle: <a href='https://www.xjtu.edu.cn/'>Xi'an Jiaotong University</a>
 profile:
   align: right
-  image: haolei.jpg
+  image: cv_pic.jpg
   image_circular: false # crops the image to make it circular
-#  more_info: >
-#    <p>555 your office number</p>
-#    <p>123 your address street</p>
-#    <p>Your City, State 12345</p>
+  more_info: >
+    <p>Xi'an, Shaanxi, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,13 +18,11 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 1 # leave blank to include all the blog posts
 ---
 
-👋 Hi, there. I am Haolei Bai (Chinese name: 白浩磊), currently a visiting student at ENCODE Lab, [Westlake University](https://en.westlake.edu.cn/), advised by [Prof. Huan Wang](https://huanwang.tech/). Prior to that, I got my M.S. in Signal Processing at [Nanyang Technological University](https://www.ntu.edu.sg/), fortune to be advised by [Prof. Alex Kot](https://personal.ntu.edu.sg/eackot/).
+I'm **Rongfu Bai 白镕辅**, a senior student at the School of Software Engineering, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). I joined the ENCODE lab at [Westlake University](https://www.westlake.edu.cn/) as a visiting student advised by [Prof. Huan Wang](https://www.westlake.edu.cn/faculty/huan-wang.html) in the summer of 2025.
 
-I'm interested in Efficient AI (LLMs/VLMs).
+I mainly work on **Computer Vision**, **Model Compression**, and **Unsupervised Learning**. I am also deeply interested in LLMs/VLMs. 
+
+I worked on instance segmentation of PolSAR(Polarimetric Synthetic Aperture Radar) images via contrastive learning under the guidance of Professor Haixia Bi in my sophomore year, which sparked my interest in Computer Vision and Unsupervised Learning. At ENCODE Lab, I focused on accelerating inference for quantized models, which gave me hands-on experience with quantization techniques and CUDA programming.
 
