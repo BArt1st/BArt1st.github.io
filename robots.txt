@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://deadlykitten4.github.io/sitemap.xml
+Sitemap: https://BArt1st.github.io/sitemap.xml
