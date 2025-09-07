@@ -57,21 +57,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%62%61%69%68%30%30%31%31@%65.%6E%74%75.%65%64%75.%73%67", "_blank");
+          window.open("mailto:%42%61%72%6F%66%34%37%31%38@%73%74%75.%78%6A%74%75.%65%64%75.%63%6E", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/deadlykitten4", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=CGh99DUAAAAJ&hl=zh-CN", "_blank");
+          window.open("https://github.com/https://github.com/BArt1st", "_blank");
         },
       },{
       id: 'light-theme',
