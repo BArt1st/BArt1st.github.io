@@ -19,8 +19,6 @@ announcements:
   limit: 5
 ---
 
-<div style="max-width:65%;">
-
 I'm **Rongfu Bai 白镕辅**, a senior student at the School of Software Engineering, [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). I joined the ENCODE lab at [Westlake University](https://www.westlake.edu.cn/) as a visiting student advised by [Prof. Huan Wang](https://www.westlake.edu.cn/faculty/huan-wang.html) in the summer of 2025.
 
 I mainly work on **Computer Vision**, **Model Compression**, and **Unsupervised Learning**. I am also deeply interested in LLMs/VLMs. 
@@ -38,5 +36,3 @@ At **ENCODE Lab**, I focused on accelerating inference for quantized models, gai
 <p align="center">
   <img src="/assets/img/ecode.png" alt="encode" width="400">
 </p>
-
-</div>
