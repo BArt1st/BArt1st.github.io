@@ -52,6 +52,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-joined-encode-lab-at-westlake-university-as-a-visiting-student",
           title: 'I joined ENCODE Lab at Westlake University as a visiting student! 🔥',
           description: "",
+          section: "News",},{id: "news-i-was-admitted-to-xi-an-jiaotong-university",
+          title: 'I was admitted to Xi’an Jiaotong University! 🔥',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
