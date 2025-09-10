@@ -43,7 +43,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-got-outstanding-student-model-school-wide",
+            },},{id: "news-i-was-admitted-to-xi-an-jiaotong-university",
+          title: 'I was admitted to Xi’an Jiaotong University! 🔥',
+          description: "",
+          section: "News",},{id: "news-i-got-outstanding-student-model-school-wide",
           title: 'I got Outstanding Student Model(school-wide)!',
           description: "",
           section: "News",},{id: "news-i-got-outstanding-class-representative-school-wide",
@@ -51,9 +54,6 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-joined-encode-lab-at-westlake-university-as-a-visiting-student",
           title: 'I joined ENCODE Lab at Westlake University as a visiting student! 🔥',
-          description: "",
-          section: "News",},{id: "news-i-was-admitted-to-xi-an-jiaotong-university",
-          title: 'I was admitted to Xi’an Jiaotong University! 🔥',
           description: "",
           section: "News",},{
         id: 'social-email',
