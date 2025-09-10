@@ -25,6 +25,6 @@ I'm **Rongfu Bai 白镕辅**, a senior student at the School of Software Enginee
 I mainly work on **Computer Vision**, **Model Compression**, and **Unsupervised Learning**. I am also deeply interested in LLMs/VLMs. 
 
 I worked on instance segmentation of PolSAR(Polarimetric Synthetic Aperture Radar) images via contrastive learning under the guidance of Professor Haixia Bi in my sophomore year, which sparked my interest in Computer Vision and Unsupervised Learning.
-![image segmentation](is.png)
+![image segmentation](/assets/img/is.png)
 At ENCODE Lab, I focused on accelerating inference for quantized models, which gave me hands-on experience with quantization techniques and CUDA programming.
 
