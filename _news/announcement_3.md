@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I got Outstanding Student Model(school-wide)!
+I got Outstanding Student Model (school-wide)!
 
