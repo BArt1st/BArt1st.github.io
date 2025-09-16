@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I got Outstanding Class Representative(school-wide)!
+I got Outstanding Class Representative (school-wide)!
 
