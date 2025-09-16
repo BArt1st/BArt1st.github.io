@@ -47,7 +47,7 @@ ninja.data = [{
           title: 'I was admitted to Xi’an Jiaotong University! 🔥',
           description: "",
           section: "News",},{id: "news-i-got-outstanding-student-model-school-wide",
-          title: 'I got Outstanding Student Model(school-wide)!',
+          title: 'I got Outstanding Student Model (school-wide)!',
           description: "",
           section: "News",},{id: "news-i-got-outstanding-class-representative-school-wide",
           title: 'I got Outstanding Class Representative (school-wide)!',
