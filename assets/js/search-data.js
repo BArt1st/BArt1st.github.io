@@ -50,7 +50,7 @@ ninja.data = [{
           title: 'I got Outstanding Student Model(school-wide)!',
           description: "",
           section: "News",},{id: "news-i-got-outstanding-class-representative-school-wide",
-          title: 'I got Outstanding Class Representative(school-wide)!',
+          title: 'I got Outstanding Class Representative (school-wide)!',
           description: "",
           section: "News",},{id: "news-i-joined-encode-lab-at-westlake-university-as-a-visiting-student",
           title: 'I joined ENCODE Lab at Westlake University as a visiting student! 🔥',
